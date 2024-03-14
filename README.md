@@ -1,0 +1,3 @@
+# Java Projects CE
+In this repository are the projects for the subjects, Object-oriented programming and data structures taken in the 2022-2023 academic year when I started studying computer engineering at another center (Prior to transferring to my current double degree).
+The language used in all projects is Java, where I studied the object-oriented model and data structures such as queue, list, doubly linked list...
