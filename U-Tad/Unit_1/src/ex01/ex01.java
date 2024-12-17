@@ -17,7 +17,7 @@ public class ex01 {
 		int n1 = lector.nextInt();
 		int multi = n1 * 20; 
 		double divi = multi / 10; 
-		System.out.println("el resultado de la multi es" + multi + "y el de la divi: " + divi);
+		System.out.println("el resultado de la multi es: " + multi + " y el de la divi: " + divi);
 		
 		int sum = multi + n1; 
 		double divi2 = sum / 10; 
