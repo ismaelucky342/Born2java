@@ -12,7 +12,6 @@ public class ex04 {
 		array2 = new char[5][5]; 
 		
 		char[] array3 = {'h','o','l','a'}; //char *array1
-		
 		}
 
 }
