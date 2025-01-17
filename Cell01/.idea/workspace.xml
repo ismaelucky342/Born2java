@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05bb6826-2bea-47e2-b5cf-1513a6269703" name="Changes" comment="" />
+    <list default="true" id="05bb6826-2bea-47e2-b5cf-1513a6269703" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mini_philo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mini_philo/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.mini_philo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
